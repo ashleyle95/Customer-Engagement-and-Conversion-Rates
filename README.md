@@ -37,15 +37,21 @@ Highlight KPI:
 ### Objective
 
 + Increase Conversion Rates:
+  
 Goal: Identify factors impacting the conversion rate and provide recommendations to improve it.
+
 Insight: Highlight key stages where visitors drop off and suggest improvements to optimize the conversion funnel.
 
 + Enhance Customer Engagement:
+  
 Goal: Determine which types of content drive the highest engagement. 
+
 Insight: Analyze interaction levels with different types of marketing content to inform better content strategies.
 
 + Improve Customer Feedback Scores:
+  
 Goal: Understand common themes in customer reviews and provide actionable insights.
+
 Insight: Identify recurring positive and negative feedback to guide product and service improvements.
 
 ### Data sources
@@ -70,7 +76,25 @@ Restore database `File PortfolioProject_MarketingAnalytics.bak` in SQL Server th
      + SQL server to restore backup database file`.bak`
      + Python: Sentiment Analysis file `customer_reviews` 
   - Reporting/Visualisation: PowerBI
+  - Flowchart:
     
+ ![image](https://github.com/user-attachments/assets/cfb488fe-536e-44b3-999a-a60fc23ed7a0)
+ 
+ ### Data Transformation
+
+ In this project, we will analyze and profile data within Power BI to assess its quality, completeness, and distribution. The goal is to ensure that the dataset is reliable for further analysis and reporting:  Data Overview, Data Quality Checks,  Descriptive Statistics & Distribution 
+ our data profiling in Power BI revealed that most of the imported tables contain clean data. However, we made a few necessary adjustments:
+ 
+✅ Removed 7 duplicate rows in the customer_journey table.
+
+✅ Separated the ClickView Combined column in the engagement_data table using delimiters for better analysis.
+
+ ## 3. Reporting Dashboard
+
+
+
+
+
 
 
 
