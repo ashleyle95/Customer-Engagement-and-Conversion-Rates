@@ -80,7 +80,7 @@ Restore database `File PortfolioProject_MarketingAnalytics.bak` in SQL Server th
     
  ![image](https://github.com/user-attachments/assets/cfb488fe-536e-44b3-999a-a60fc23ed7a0)
  
- ### Data Transformation
+  - Data Transformation
 
  In this project, we will analyze and profile data within Power BI to assess its quality, completeness, and distribution. The goal is to ensure that the dataset is reliable for further analysis and reporting:  Data Overview, Data Quality Checks,  Descriptive Statistics & Distribution 
  our data profiling in Power BI revealed that most of the imported tables contain clean data. However, we made a few necessary adjustments:
@@ -90,9 +90,36 @@ Restore database `File PortfolioProject_MarketingAnalytics.bak` in SQL Server th
 ✅ Separated the ClickView Combined column in the engagement_data table using delimiters for better analysis.
 
  ## 3. Reporting Dashboard
+[Embedded Demo in Power BI service](https://app.powerbi.com/view?r=eyJrIjoiMDA1MDRlZmYtNTgzYy00ZmYyLTllY2EtZmI4YjhjMWYxYjhjIiwidCI6IjA2N2UxZTE5LWExMWEtNDhlNS04Yjc5LTBiOWVlNzQ1YTdhMiJ9 )
 
+The dashboard consists of four key pages, each providing in-depth insights into different aspects of marketing performance:
 
+`Overview`: A high-level summary of key marketing metrics, including conversion rate, customer sentiment from reviews, and customer engagement on social media. This page highlights overall trends and areas requiring attention.
 
+`Conversion Rate`: A detailed breakdown of conversion rates by product and day of the week, along with an analysis of the customer journey. This section helps identify patterns, bottlenecks, and opportunities for improving conversions.
+
+`Customer Review Insights`: Incorporating sentiment analysis to evaluate customer feedback, this page helps understand customer experience, detect common concerns, and identify areas for product or service improvements.
+
+`Social Media`: Analyzing customer interactions on social media to uncover engagement trends. This section provides insights into the effectiveness of marketing campaigns and helps refine strategies for better audience engagement.
+
+## 4. Findings/Recommendations
+()
+## 5. Limitations
+**In Python**
+
+When analyzing sentiment, combining both the sentiment score and rating provides a more comprehensive understanding of the customer experience. By considering the sentiment expressed in the text along with the numerical rating provided by the customer, we can gain a more nuanced view of their overall satisfaction. However, there are some limitations when using both pre-trained models in data analysis:
+
+Contextual Understanding: VADER relies on a predefined lexicon, which may fail to capture contextual nuances such as sarcasm or irony, leading to misinterpretations.
+
+Polarity Misclassification: In some cases, BART might misinterpret the polarity (positive/negative/neutral) of a sentence if it’s subtle or mixed.
+
+**In Power BI**
+
+The sentiment categories include Strong Negative, Mixed Negative, Possibly Misclassified, Neutral, Strong Positive, and Mixed Positive. These classifications serve as assumptions for analysis and should be continuously monitored and validated to ensure long-term accuracy.
+
+Based on sentiment analysis, we have categorized review topics into four main areas: Product Price, Product Quality, Delivery, and Customer Service. However, due to the complexity of customer reviews and potential misclassification, inaccuracies may arise, which could impact the reliability of data analysis.
+
+To improve the accuracy of insights, it is recommended to avoid relying solely on sentiment analysis without considering external factors. Instead, integrating additional surveys and external data sources can enhance the depth and precision of the analysis, leading to more actionable recommendations.
 
 
 
