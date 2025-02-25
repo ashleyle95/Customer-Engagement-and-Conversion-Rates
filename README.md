@@ -3,11 +3,11 @@
 ## Project Links
 [Python-Sentiment Analysis - Customer Review](https://github.com/ashleyle95/Customer-Engagement-and-Conversion-Rates/blob/main/Sentiment%20Analysis-Customer%20Review%20(4).ipynb)
 
-[PowerBI-Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDA1MDRlZmYtNTgzYy00ZmYyLTllY2EtZmI4YjhjMWYxYjhjIiwidCI6IjA2N2UxZTE5LWExMWEtNDhlNS04Yjc5LTBiOWVlNzQ1YTdhMiJ9)
+[PowerBI - Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDA1MDRlZmYtNTgzYy00ZmYyLTllY2EtZmI4YjhjMWYxYjhjIiwidCI6IjA2N2UxZTE5LWExMWEtNDhlNS04Yjc5LTBiOWVlNzQ1YTdhMiJ9)
 
 [Measures - Power BI (Notion Link)](https://merciful-pangolin-17c.notion.site/PROJECT-Customer-Engagement-and-Conversion-Rates-17dced2366e7807eb554f53ea0df0990)
 
-[Final Report-Presentation](https://github.com/ashleyle95/Customer-Engagement-and-Conversion-Rates/blob/main/Report-Customer-Engagement-and-Conversion-Rates.pdf)
+[Final Report - Presentation](https://github.com/ashleyle95/Customer-Engagement-and-Conversion-Rates/blob/main/Report-Customer-Engagement-and-Conversion-Rates.pdf)
 
 ## Table of contents
 [1. Project Overview](#1-project-overview)
