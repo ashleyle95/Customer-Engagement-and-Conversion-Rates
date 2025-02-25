@@ -121,6 +121,10 @@ Based on sentiment analysis, we have categorized review topics into four main ar
 
 To improve the accuracy of insights, it is recommended to avoid relying solely on sentiment analysis without considering external factors. Instead, integrating additional surveys and external data sources can enhance the depth and precision of the analysis, leading to more actionable recommendations.
 
+| [Table of Contents](#table-of-contents) | [Project Links](#project-links) |
+
+
+![image](https://github.com/user-attachments/assets/71437a11-333e-4d7a-8073-ee6d54691298)
 
 
 
