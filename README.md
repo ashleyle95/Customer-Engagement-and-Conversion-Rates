@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/b1a3fe7d-025a-4b3b-ade0-81eedcde2a83)
 # PROJECT: Customer Engagement and Conversion Rates
 ## Project Links
-[Python-Sentiment Analysis - Customer Review](https://github.com/ashleyle95/Customer-Engagement-and-Conversion-Rates/blob/main/Sentiment%20Analysis-Customer%20Review%20(4).ipynb)
+[Python - Sentiment Analysis - Customer Review](https://github.com/ashleyle95/Customer-Engagement-and-Conversion-Rates/blob/main/Sentiment%20Analysis-Customer%20Review%20(4).ipynb)
 
 [PowerBI - Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDA1MDRlZmYtNTgzYy00ZmYyLTllY2EtZmI4YjhjMWYxYjhjIiwidCI6IjA2N2UxZTE5LWExMWEtNDhlNS04Yjc5LTBiOWVlNzQ1YTdhMiJ9)
 
