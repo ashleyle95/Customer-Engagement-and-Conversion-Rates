@@ -103,7 +103,7 @@ The dashboard consists of four key pages, each providing in-depth insights into 
 `Social Media`: Analyzing customer interactions on social media to uncover engagement trends. This section provides insights into the effectiveness of marketing campaigns and helps refine strategies for better audience engagement.
 
 ## 4. Findings/Recommendations
-[Report]([https://github.com/ashleyle95/Customer-Engagement-and-Conversion-Rates/blob/main/Report-Customer-Engagement-and-Conversion-Rates.pdf](https://github.com/ashleyle95/Customer-Engagement-and-Conversion-Rates/blob/main/Report%20Marketing.pdf))
+[Report](https://github.com/ashleyle95/Customer-Engagement-and-Conversion-Rates/blob/main/Report%20Marketing.pdf)
 ## 5. Limitations
 **In Python**
 
