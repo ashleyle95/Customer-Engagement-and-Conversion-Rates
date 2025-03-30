@@ -7,7 +7,7 @@
 
 [Measures - Power BI (Notion Link)](https://merciful-pangolin-17c.notion.site/PROJECT-Customer-Engagement-and-Conversion-Rates-17dced2366e7807eb554f53ea0df0990)
 
-[Final Report - Presentation](https://github.com/ashleyle95/Customer-Engagement-and-Conversion-Rates/blob/main/Report-Customer-Engagement-and-Conversion-Rates.pdf)
+[Final Report - Presentation](https://github.com/ashleyle95/Customer-Engagement-and-Conversion-Rates/blob/main/Report%20Marketing.pdf)
 
 ## Table of contents
 [1. Project Overview](#1-project-overview)
